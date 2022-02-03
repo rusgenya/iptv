@@ -1,1 +1,23 @@
-hello
+#EXTM3U
+#EXTINF:-1 group-title="Undefined",12 канал (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",31 канал (Челябинск)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General" tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png",360°
+http://video1.in-news.ru/360/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tv8crimea.ru/wp-content/uploads/2017/11/1logo.png",8 Канал
+http://176.99.110.252/stream8/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Local;Undefined" tvg-logo="http://online-red.com/images/tv/86.png",Телеканал 86 (Сургут)
+https://sitv.ru/hls/s861024.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rxwTjuT.jpg",RU | BST TV Bashkirskoe Sputnikovoe TV
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Bmecte Po HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Brics TV HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/GGLbJIi.jpg",RU | Brodilo TV
+http://brodilo.tv/channel.php?checkedby:iptvcat.com
