@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTGRP:Кино
-#EXTINF:-1 ,Кинокомедия
+#EXTINF:-1 group-title="Кино",Кинокомедия
 https://live-1-101.zxz.su/stream/1046/HLS/SD/bZpOMICWYU9Ey4XnO6w4rw/1651620733/S-QTJML3BwVk5yRXhLL2cxajQvZDZuL3kxZ01xWlkrL01VR1gzRnhXMjFwb2t0TytSRzJ4cmNBcy9wQ0hXK1AxNFhDTXVxOUFuaEpucE53MGR1b2c3QWc9PQ==/move/four/dirs/upper/1046-576p.m3u8 
-#EXTINF:-1 ,Мужское кино
+#EXTINF:-1 group-title="Кино",Мужское кино
 https://live-1-101.zxz.su/stream/1180/HLS/SD/cR8uWPM73xUxeK1RlueAcA/1651620533/S-SS9wZEFBdUV5NE1aMVkxdlNhN0JrZDdOdGpUajc3N3NGMXltMzRkb0FnSldnR2w4TG8vVEZ1U3Jhdjl6VVJXTWMvMlkrak4wYVRpTGtkVWJqcmR5UWc9PQ==/move/four/dirs/upper/1180-576p.m3u8
