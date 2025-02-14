@@ -695,10 +695,6 @@ http://cdn.admuspeh.my/8866/index.m3u8?token=p4ZcsQJgUyZ2zCGM
 http://cdn.admuspeh.my/8867/index.m3u8?token=p4ZcsQJgUyZ2zCGM
 #EXTINF:-1 tvg-id="769" group-title="Детские"  tvg-logo="https://m3u.admuspeh.my/icon/Cartoons%2090.png" catchup-days="0", CineMan Cartoons 90 FHD
 http://cdn.admuspeh.my/8812/index.m3u8?token=p4ZcsQJgUyZ2zCGM
-#EXTINF:-1 tvg-id="772" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20ExExEx.png" catchup-days="0", CineMan XXX FHD
-http://cdn.admuspeh.my/8868/index.m3u8?token=p4ZcsQJgUyZ2zCGM
-#EXTINF:-1 tvg-id="773" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20ExExEx%20TWO.png" catchup-days="0", CineMan XXX2 FHD
-http://cdn.admuspeh.my/8869/index.m3u8?token=p4ZcsQJgUyZ2zCGM
 #EXTINF:-1 tvg-id="768" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-old4k.png" catchup-days="0", CineMan OLD 4K
 http://cdn.admuspeh.my/8804/index.m3u8?token=p4ZcsQJgUyZ2zCGM
 #EXTINF:-1 tvg-id="767" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-sssr4k.png" catchup-days="0", CineMan CCCP 4K
